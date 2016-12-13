@@ -1,0 +1,31 @@
+Custom Variations
+
+***************************************
+Objective:
+We'd like to extend the functionality of Woocommerce to support a "Secondary Product image". Please refer to "Demo-terminology.jpg" to see what I mean. We are customizing the theme to show a Secondary Product Image as demonstrated in the following files:
+Demo-VariationLayout.jpg
+Demo-SingleProductLayout.jpg
+
+If a product is a "Single Product" it needs a single "Secondary Product Image".
+If a product is a "Variable Product", each variation needs to have it's own "Secondary Product Image".
+
+We require a method to upload an "Single Product Image" for the above listed use cases. An image uploader is NOT required, as we can simply upload images into Media, and paste the url into a custom text field. Alternatively, if we can use the images in the product gallery and map them to the Variations, this would be acceptable as well. We are looking for a light weight code implementation.
+
+Please refer ro the following images for reference: 
+Demo-SingleProductSecondaryImage.jpg
+DEMO-VariationSecondaryImage.jpg
+
+***************************************
+
+Requirements:
+
+Please add code to custom-functions.php and single.product.php
+If other files are required. Please indicate
+Please comment code clearly
+
+Please see the following pages:
+http://localhost/product/rocketa/
+http://localhost/product/rocketb/
+
+Rocket A: should display the image single-product.png uploaded through wp-admin
+Rocket B: should have a selection box with matches orange.jpg, red.jpg, yellow.jpg, to the corresponding flavor names: orange, red, and yellow.

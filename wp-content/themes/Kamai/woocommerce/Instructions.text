@@ -1,0 +1,18 @@
+Instructions.
+
+Thank you for your time and effort, it is greatly appreciated. We hope that this project leads to continued future tasks.
+
+The folder named "Calla" contains a sample Wordpress project which utilizes the Woocommerce shopping cart. Please note that this is not an actual Shop that is in construction, but a sample project to test your capabilities. The sql database "wordpress-am.sql" has also been included in this sample project. The project is using the "Kamai" theme. Woocommerce templates have been copied into this theme so that the templates can be customized.
+
+Once you have set up your project please view the "shop" page and view any of the products on this page. We would like you to customize this template.
+
+Please locate the file in Kamai/woocommerce/single-product.php. Please search for XYZAM-project: task to find the 3 tasks commented in the codebase and complete as described.
+
+All custom code should go into custom-functions.php. This file needs to be included in the functions.php.
+
+Once completed with the tasks please send back the codebase and database files. Feel free to add unique data to the database, including images to demonstrate functionality that has been requested.
+
+
+
+
+
